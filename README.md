@@ -10,4 +10,4 @@ ICON THEME: https://github.com/vinceliuice/WhiteSur-icon-theme
 
 CURSOR THEME: https://github.com/ful1e5/Bibata_Cursor
 
-FONT THEME: https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/JetBrainsMono
+FONT STYLE: https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/JetBrainsMono
